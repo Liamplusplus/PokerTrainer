@@ -1,0 +1,37 @@
+<Gamestate>
+
+<CurrentBox> 6
+
+<Boxes>
+
+<Active> true<Busted> false
+<Bet> 20
+
+<Cards> 2
+<Value> 1
+<Suit> Spades
+
+<Value> 12
+<Suit> Hearts
+
+<Value> 0
+<Suit> Hearts
+
+<Value> 0
+<Suit> Hearts
+
+<Value> 0
+<Suit> Hearts
+
+<Count> 11, 21
+
+<Active> false<Busted> false
+<Active> false<Busted> false
+<Active> false<Busted> false
+<Active> false<Busted> false
+<Active> false<Busted> false
+<Dealer>
+<Active> false<Busted> false
+<Name> lima
+<Balance> 160<Savings> 900
+<Debt> 0
